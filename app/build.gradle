@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.anita.delivery'
+    namespace 'com.riza.delivery'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.anita.delivery"
+        applicationId "com.riza.delivery"
         minSdk 25
         targetSdk 32
         versionCode 1
@@ -36,4 +36,5 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
+
 }

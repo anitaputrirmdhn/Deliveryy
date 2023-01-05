@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Delivery</string>
+    <string name="app_name">delivery</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="creat_new_akun">creat_new_akun</string>
+    <string name="emailaddress">emailaddress</string>
+    <string name="todo">todo</string>
+    <string name="get_started">Get Started</string>
+    <string name="todoo">TODO</string>
+    <string name="tdo">TODO</string>
+    <string name="go_ar">GO - AR</string>
+    <string name="delivert_eats">Delivert Eats</string>
+    <string name="g0_ar">G0-AR</string>
+    <string name="delivery">Delivery</string>
+    <string name="e_a_t_s">E A T S</string>
 </resources>
